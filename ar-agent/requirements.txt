@@ -1,0 +1,4 @@
+groq
+pdfplumber
+pydantic
+python-dotenv
